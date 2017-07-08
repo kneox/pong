@@ -1,0 +1,44 @@
+{"frames": [
+
+{
+	"filename": "ball.png",
+	"frame": {"x":165,"y":1,"w":31,"h":31},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":31,"h":31},
+	"sourceSize": {"w":31,"h":31}
+},
+{
+	"filename": "barre_crocodile.png",
+	"frame": {"x":1,"y":1,"w":80,"h":10},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":80,"h":10},
+	"sourceSize": {"w":80,"h":10}
+},
+{
+	"filename": "barre_homme.png",
+	"frame": {"x":83,"y":1,"w":80,"h":10},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":80,"h":10},
+	"sourceSize": {"w":80,"h":10}
+},
+{
+	"filename": "play-tennis-small.png",
+	"frame": {"x":1,"y":13,"w":145,"h":24},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":145,"h":24},
+	"sourceSize": {"w":145,"h":24}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "pong.png",
+	"format": "RGBA8888",
+	"size": {"w":197,"h":38},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:4a4a4c6e7d034132f8f0f449d62c5544:d4a51ecbed4806ba57823fa5854f72dd:2c58d7ddc98fbf1124a5cee203a4e94e$"
+}
+}
